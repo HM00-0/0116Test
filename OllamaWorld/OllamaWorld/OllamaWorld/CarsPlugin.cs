@@ -46,6 +46,17 @@ namespace Ollamaworld
                 place_number = 3,
                 place_sector = 'A'
             }
+            new CarsModel
+            {
+                Id = "4",
+                name = "Genesis",
+                Model = "GV80",
+                Color = "White",
+                car_number = 0603,
+                IsIn = true,
+                place_number = 6,
+                place_sector = 'A'
+            }
         };
 
         [KernelFunction("GetCar")]
