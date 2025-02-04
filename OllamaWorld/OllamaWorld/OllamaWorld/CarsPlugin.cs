@@ -45,7 +45,7 @@ namespace Ollamaworld
                 IsIn = true,
                 place_number = 3,
                 place_sector = 'A'
-            }
+            },
             new CarsModel
             {
                 Id = "4",
