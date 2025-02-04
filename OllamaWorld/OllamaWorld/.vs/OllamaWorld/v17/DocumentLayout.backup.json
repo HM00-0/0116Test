@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hmryu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\BIG\\2025 Winter Study\\Semantic Kernel\\OllamaWorld\\OllamaWorld\\",
+  "WorkspaceRootPath": "C:\\Users\\hmryu\\ParkingLot_BIG\\OllamaWorld\\OllamaWorld\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1931D0C6-9A04-4B29-9253-23C5B4B2464D}|OllamaWorld\\OllamaWorld.csproj|c:\\users\\hmryu\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\big\\2025 winter study\\semantic kernel\\ollamaworld\\ollamaworld\\ollamaworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1931D0C6-9A04-4B29-9253-23C5B4B2464D}|OllamaWorld\\OllamaWorld.csproj|solutionrelative:ollamaworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1931D0C6-9A04-4B29-9253-23C5B4B2464D}|OllamaWorld\\OllamaWorld.csproj|c:\\users\\hmryu\\parkinglot_big\\ollamaworld\\ollamaworld\\ollamaworld\\carsplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1931D0C6-9A04-4B29-9253-23C5B4B2464D}|OllamaWorld\\OllamaWorld.csproj|solutionrelative:ollamaworld\\carsplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1931D0C6-9A04-4B29-9253-23C5B4B2464D}|OllamaWorld\\OllamaWorld.csproj|c:\\users\\hmryu\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\big\\2025 winter study\\semantic kernel\\ollamaworld\\ollamaworld\\ollamaworld\\carsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1931D0C6-9A04-4B29-9253-23C5B4B2464D}|OllamaWorld\\OllamaWorld.csproj|c:\\users\\hmryu\\parkinglot_big\\ollamaworld\\ollamaworld\\ollamaworld\\carsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1931D0C6-9A04-4B29-9253-23C5B4B2464D}|OllamaWorld\\OllamaWorld.csproj|solutionrelative:ollamaworld\\carsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1931D0C6-9A04-4B29-9253-23C5B4B2464D}|OllamaWorld\\OllamaWorld.csproj|c:\\users\\hmryu\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\big\\2025 winter study\\semantic kernel\\ollamaworld\\ollamaworld\\ollamaworld\\carsplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1931D0C6-9A04-4B29-9253-23C5B4B2464D}|OllamaWorld\\OllamaWorld.csproj|solutionrelative:ollamaworld\\carsplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1931D0C6-9A04-4B29-9253-23C5B4B2464D}|OllamaWorld\\OllamaWorld.csproj|c:\\users\\hmryu\\parkinglot_big\\ollamaworld\\ollamaworld\\ollamaworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1931D0C6-9A04-4B29-9253-23C5B4B2464D}|OllamaWorld\\OllamaWorld.csproj|solutionrelative:ollamaworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,13 +38,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "CarsPlugin.cs",
-              "DocumentMoniker": "C:\\Users\\hmryu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\BIG\\2025 Winter Study\\Semantic Kernel\\OllamaWorld\\OllamaWorld\\OllamaWorld\\CarsPlugin.cs",
+              "DocumentMoniker": "C:\\Users\\hmryu\\ParkingLot_BIG\\OllamaWorld\\OllamaWorld\\OllamaWorld\\CarsPlugin.cs",
               "RelativeDocumentMoniker": "OllamaWorld\\CarsPlugin.cs",
-              "ToolTip": "C:\\Users\\hmryu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\BIG\\2025 Winter Study\\Semantic Kernel\\OllamaWorld\\OllamaWorld\\OllamaWorld\\CarsPlugin.cs",
+              "ToolTip": "C:\\Users\\hmryu\\ParkingLot_BIG\\OllamaWorld\\OllamaWorld\\OllamaWorld\\CarsPlugin.cs",
               "RelativeToolTip": "OllamaWorld\\CarsPlugin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAC8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T04:40:38.11Z",
               "EditorCaption": ""
@@ -53,9 +53,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "CarsModel.cs",
-              "DocumentMoniker": "C:\\Users\\hmryu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\BIG\\2025 Winter Study\\Semantic Kernel\\OllamaWorld\\OllamaWorld\\OllamaWorld\\CarsModel.cs",
+              "DocumentMoniker": "C:\\Users\\hmryu\\ParkingLot_BIG\\OllamaWorld\\OllamaWorld\\OllamaWorld\\CarsModel.cs",
               "RelativeDocumentMoniker": "OllamaWorld\\CarsModel.cs",
-              "ToolTip": "C:\\Users\\hmryu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\BIG\\2025 Winter Study\\Semantic Kernel\\OllamaWorld\\OllamaWorld\\OllamaWorld\\CarsModel.cs",
+              "ToolTip": "C:\\Users\\hmryu\\ParkingLot_BIG\\OllamaWorld\\OllamaWorld\\OllamaWorld\\CarsModel.cs",
               "RelativeToolTip": "OllamaWorld\\CarsModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -64,16 +64,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hmryu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\BIG\\2025 Winter Study\\Semantic Kernel\\OllamaWorld\\OllamaWorld\\OllamaWorld\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\hmryu\\ParkingLot_BIG\\OllamaWorld\\OllamaWorld\\OllamaWorld\\Program.cs",
               "RelativeDocumentMoniker": "OllamaWorld\\Program.cs",
-              "ToolTip": "C:\\Users\\hmryu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\BIG\\2025 Winter Study\\Semantic Kernel\\OllamaWorld\\OllamaWorld\\OllamaWorld\\Program.cs",
+              "ToolTip": "C:\\Users\\hmryu\\ParkingLot_BIG\\OllamaWorld\\OllamaWorld\\OllamaWorld\\Program.cs",
               "RelativeToolTip": "OllamaWorld\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T05:23:30.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T05:23:30.826Z"
             }
           ]
         }
