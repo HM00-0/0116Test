@@ -52,7 +52,7 @@ namespace Ollamaworld
                 name = "Genesis",
                 Model = "GV80",
                 Color = "White",
-                car_number = 0603,
+                car_number = 5555,
                 IsIn = true,
                 place_number = 6,
                 place_sector = 'A'
