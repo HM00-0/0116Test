@@ -41,7 +41,7 @@ namespace Ollamaworld
                 name = "Mercedes",
                 Model = "S500",
                 Color = "Red",
-                car_number = 7833,
+                car_number = 2222,
                 IsIn = true,
                 place_number = 3,
                 place_sector = 'A'
@@ -52,7 +52,7 @@ namespace Ollamaworld
                 name = "Genesis",
                 Model = "GV80",
                 Color = "White",
-                car_number = 5555,
+                car_number = 1111,
                 IsIn = true,
                 place_number = 6,
                 place_sector = 'A'
