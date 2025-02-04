@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OllamaWorld")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39a80e1859e68cb877c85b53c4d60dde4077cc3e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31f31e873063e21af4beb40db4fb22ff6183bed2")]
 [assembly: System.Reflection.AssemblyProductAttribute("OllamaWorld")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OllamaWorld")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

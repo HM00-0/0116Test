@@ -48,13 +48,24 @@ namespace Ollamaworld
             },
             new CarsModel
             {
+                Id = "4",
+                name = "Genesis",
+                Model = "GV80",
+                Color = "White",
+                car_number = 0603,
+                IsIn = true,
+                place_number = 6,
+                place_sector = 'A'
+            },
+            new CarsModel
+            {
                 Id = "5",
                 name = "Hyundai",
-                Model = "casper",
-                Color = "Red",
-                car_number = 6666,
+                Model = "avante n",
+                Color = "blue",
+                car_number = 2123,
                 IsIn = false,
-                place_number = 1,
+                place_number = 10,
                 place_sector = 'B'
             }
         };
