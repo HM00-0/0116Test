@@ -51,7 +51,7 @@ namespace Ollamaworld
                 Id = "4",
                 name = "Genesis",
                 Model = "GV80",
-                Color = "White",
+                Color = "Silver",
                 car_number = 1111,
                 IsIn = true,
                 place_number = 6,
