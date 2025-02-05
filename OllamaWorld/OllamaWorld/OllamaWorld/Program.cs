@@ -21,6 +21,8 @@ OpenAIPromptExecutionSettings openAIPromptExecutionSettings = new()
 
 var history = new ChatHistory();
 history.AddSystemMessage("You are a helpful assistant chatbot at the parking lot [BIG].");
+history.AddSystemMessage("You can ask me about the cars in the parking lot, their models, colors, and parkinhg places.");
+history.AddSystemMessage("check the list of cars in the parking lot and their places.");
 
 Console.WriteLine("Welcome to [BIG]");
 Console.WriteLine("Type 'exit' to exit the chatbot\n");

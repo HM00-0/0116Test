@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hmryu\\ParkingLot_BIG\\OllamaWorld\\OllamaWorld\\",
+  "WorkspaceRootPath": "C:\\Users\\hmryu\\0205git\\OllamaWorld\\OllamaWorld\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1931D0C6-9A04-4B29-9253-23C5B4B2464D}|OllamaWorld\\OllamaWorld.csproj|c:\\users\\hmryu\\parkinglot_big\\ollamaworld\\ollamaworld\\ollamaworld\\carsplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1931D0C6-9A04-4B29-9253-23C5B4B2464D}|OllamaWorld\\OllamaWorld.csproj|c:\\users\\hmryu\\0205git\\ollamaworld\\ollamaworld\\ollamaworld\\carsplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1931D0C6-9A04-4B29-9253-23C5B4B2464D}|OllamaWorld\\OllamaWorld.csproj|solutionrelative:ollamaworld\\carsplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1931D0C6-9A04-4B29-9253-23C5B4B2464D}|OllamaWorld\\OllamaWorld.csproj|c:\\users\\hmryu\\parkinglot_big\\ollamaworld\\ollamaworld\\ollamaworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1931D0C6-9A04-4B29-9253-23C5B4B2464D}|OllamaWorld\\OllamaWorld.csproj|c:\\users\\hmryu\\0205git\\ollamaworld\\ollamaworld\\ollamaworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1931D0C6-9A04-4B29-9253-23C5B4B2464D}|OllamaWorld\\OllamaWorld.csproj|solutionrelative:ollamaworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1931D0C6-9A04-4B29-9253-23C5B4B2464D}|OllamaWorld\\OllamaWorld.csproj|c:\\users\\hmryu\\parkinglot_big\\ollamaworld\\ollamaworld\\ollamaworld\\carsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1931D0C6-9A04-4B29-9253-23C5B4B2464D}|OllamaWorld\\OllamaWorld.csproj|c:\\users\\hmryu\\0205git\\ollamaworld\\ollamaworld\\ollamaworld\\carsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1931D0C6-9A04-4B29-9253-23C5B4B2464D}|OllamaWorld\\OllamaWorld.csproj|solutionrelative:ollamaworld\\carsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,21 +30,21 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CarsPlugin.cs",
-              "DocumentMoniker": "C:\\Users\\hmryu\\ParkingLot_BIG\\OllamaWorld\\OllamaWorld\\OllamaWorld\\CarsPlugin.cs",
+              "DocumentMoniker": "C:\\Users\\hmryu\\0205git\\OllamaWorld\\OllamaWorld\\OllamaWorld\\CarsPlugin.cs",
               "RelativeDocumentMoniker": "OllamaWorld\\CarsPlugin.cs",
-              "ToolTip": "C:\\Users\\hmryu\\ParkingLot_BIG\\OllamaWorld\\OllamaWorld\\OllamaWorld\\CarsPlugin.cs",
+              "ToolTip": "C:\\Users\\hmryu\\0205git\\OllamaWorld\\OllamaWorld\\OllamaWorld\\CarsPlugin.cs",
               "RelativeToolTip": "OllamaWorld\\CarsPlugin.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAADkAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T04:40:38.11Z",
               "EditorCaption": ""
@@ -53,9 +53,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "CarsModel.cs",
-              "DocumentMoniker": "C:\\Users\\hmryu\\ParkingLot_BIG\\OllamaWorld\\OllamaWorld\\OllamaWorld\\CarsModel.cs",
+              "DocumentMoniker": "C:\\Users\\hmryu\\0205git\\OllamaWorld\\OllamaWorld\\OllamaWorld\\CarsModel.cs",
               "RelativeDocumentMoniker": "OllamaWorld\\CarsModel.cs",
-              "ToolTip": "C:\\Users\\hmryu\\ParkingLot_BIG\\OllamaWorld\\OllamaWorld\\OllamaWorld\\CarsModel.cs",
+              "ToolTip": "C:\\Users\\hmryu\\0205git\\OllamaWorld\\OllamaWorld\\OllamaWorld\\CarsModel.cs",
               "RelativeToolTip": "OllamaWorld\\CarsModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -65,14 +65,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hmryu\\ParkingLot_BIG\\OllamaWorld\\OllamaWorld\\OllamaWorld\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\hmryu\\0205git\\OllamaWorld\\OllamaWorld\\OllamaWorld\\Program.cs",
               "RelativeDocumentMoniker": "OllamaWorld\\Program.cs",
-              "ToolTip": "C:\\Users\\hmryu\\ParkingLot_BIG\\OllamaWorld\\OllamaWorld\\OllamaWorld\\Program.cs",
+              "ToolTip": "C:\\Users\\hmryu\\0205git\\OllamaWorld\\OllamaWorld\\OllamaWorld\\Program.cs",
               "RelativeToolTip": "OllamaWorld\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAB1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T05:23:30.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T05:23:30.826Z"
             }
           ]
         }

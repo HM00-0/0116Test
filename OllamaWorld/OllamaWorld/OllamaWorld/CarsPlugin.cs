@@ -40,7 +40,7 @@ namespace Ollamaworld
                 Id = "3",
                 name = "Mercedes",
                 Model = "S500",
-                Color = "Red",
+                Color = "White",
                 car_number = 2222,
                 IsIn = true,
                 place_number = 3,

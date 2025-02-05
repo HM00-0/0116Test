@@ -1361,11 +1361,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hmryu\\ParkingLot_BIG\\OllamaWorld\\OllamaWorld\\OllamaWorld\\OllamaWorld.csproj",
+      "projectUniqueName": "C:\\Users\\hmryu\\0205git\\OllamaWorld\\OllamaWorld\\OllamaWorld\\OllamaWorld.csproj",
       "projectName": "OllamaWorld",
-      "projectPath": "C:\\Users\\hmryu\\ParkingLot_BIG\\OllamaWorld\\OllamaWorld\\OllamaWorld\\OllamaWorld.csproj",
+      "projectPath": "C:\\Users\\hmryu\\0205git\\OllamaWorld\\OllamaWorld\\OllamaWorld\\OllamaWorld.csproj",
       "packagesPath": "C:\\Users\\hmryu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hmryu\\ParkingLot_BIG\\OllamaWorld\\OllamaWorld\\OllamaWorld\\obj\\",
+      "outputPath": "C:\\Users\\hmryu\\0205git\\OllamaWorld\\OllamaWorld\\OllamaWorld\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
