@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hmryu\\ParkingLot_BIG\\OllamaWorld\\OllamaWorld\\OllamaWorld\\OllamaWorld.csproj": {}
+    "C:\\Users\\c\\Desktop\\git_collab\\OllamaWorld\\OllamaWorld\\OllamaWorld\\OllamaWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hmryu\\ParkingLot_BIG\\OllamaWorld\\OllamaWorld\\OllamaWorld\\OllamaWorld.csproj": {
+    "C:\\Users\\c\\Desktop\\git_collab\\OllamaWorld\\OllamaWorld\\OllamaWorld\\OllamaWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hmryu\\ParkingLot_BIG\\OllamaWorld\\OllamaWorld\\OllamaWorld\\OllamaWorld.csproj",
+        "projectUniqueName": "C:\\Users\\c\\Desktop\\git_collab\\OllamaWorld\\OllamaWorld\\OllamaWorld\\OllamaWorld.csproj",
         "projectName": "OllamaWorld",
-        "projectPath": "C:\\Users\\hmryu\\ParkingLot_BIG\\OllamaWorld\\OllamaWorld\\OllamaWorld\\OllamaWorld.csproj",
-        "packagesPath": "C:\\Users\\hmryu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hmryu\\ParkingLot_BIG\\OllamaWorld\\OllamaWorld\\OllamaWorld\\obj\\",
+        "projectPath": "C:\\Users\\c\\Desktop\\git_collab\\OllamaWorld\\OllamaWorld\\OllamaWorld\\OllamaWorld.csproj",
+        "packagesPath": "C:\\Users\\c\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\c\\Desktop\\git_collab\\OllamaWorld\\OllamaWorld\\OllamaWorld\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hmryu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\c\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -75,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
