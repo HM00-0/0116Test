@@ -49,8 +49,8 @@ namespace Ollamaworld
             new CarsModel
             {
                 Id = "4",
-                name = "Genesis",
-                Model = "GV80",
+                name = "Porche",
+                Model = "911",
                 Color = "Silver",
                 car_number = 1111,
                 IsIn = true,
